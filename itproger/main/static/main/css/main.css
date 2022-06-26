@@ -1,5 +1,5 @@
 body {
-    background: #FFFFFF;
+    background: #6F6D6B;
 }
 
 aside {
@@ -7,12 +7,12 @@ aside {
     width: 22%;
     padding: 2.5%;
     height: 100vh;
-    color: #4d4d4d;
+    color: #168ec9;
     border-right: 5px solid #6F6D6B;
 }
 
 aside img {
-    width: 250px;
+    width: 150px;
     float: center;
 }
 
@@ -38,14 +38,14 @@ aside ul li {
 }
 
 aside ul li:hover, aside ul a:hover {
-    color: #4d4d4d;
+    color: #ebf0ef;
     text-decoration: none;
     transform: scale(1.05);
 }
 
 main .features {
     float: left;
-    color: #4d4d4d;
+    color: #ebf0ef;
     margin-top: 100px;
     text-align: center;
     width: 75%;
